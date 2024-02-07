@@ -1,0 +1,12 @@
+node_modules/
+
+__pycache__/
+site-packages/
+Scripts/
+
+web
+android
+ios
+macos
+linux
+windows
